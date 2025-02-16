@@ -1,11 +1,12 @@
 # 📚 Repositório de Cursos
 
-Bem-vindo ao meu repositório de cursos! Aqui você encontrará materiais, códigos e anotações que ministrei ou irei ministrar na twitch.
+Bem-vindo ao meu repositório de cursos focados em ciência de dados! 
+Aqui você encontrará materiais, códigos e anotações que ministrei ou irei ministrar na Twitch/Youyube.
 
 ## 📖 Curso: Linear Mixed Models (LMM)
 
 ### 📌 Descrição
-O curso de **Linear Mixed Models (LMM)** aborda modelos estatísticos que combinam efeitos fixos e aleatórios, sendo amplamente utilizados em análises de dados longitudinais e em estudos com medidas repetidas.
+O curso de **Linear Mixed Models (LMM)** aborda modelos estatísticos que combinam efeitos fixos e aleatórios, sendo amplamente utilizados em análises de dados longitudinais, em estudos com medidas repetidas e em datos com estruturas hierárquicas.
 
 ### 🔍 Tópicos abordados
 - Introdução aos Modelos Lineares Mistos 
@@ -38,14 +39,15 @@ O curso de **Linear Mixed Models (LMM)** aborda modelos estatísticos que combin
    ```
 2. Acesse a pasta do curso de LMM:
    ```bash
-   cd repositorio-cursos/Curso-Linear-Mixed-Models
+   cd repositorio-cursos/CursoLMM
    ```
-3. Abra os notebooks no RStudio ou rode os scripts diretamente no R.
+3. Abra os notebooks no VScode ou Jupyterlab ou rode os scripts diretamente no python.
 
 ### 📌 Referências
 - West, B. T., Welch, K. B., & Galecki, A. T. (2014). *Linear Mixed Models: A Practical Guide Using Statistical Software*.
 - Pinheiro, J. C., & Bates, D. M. (2000). *Mixed-Effects Models in S and S-PLUS*.
 - Gelman, A., & Hill, J. (2006). *Data Analysis Using Regression and Multilevel/Hierarchical Models*.
+- Documentação oficial do pacote [`statsmodels`](https://www.statsmodels.org/stable/index.html)
 - Documentação oficial do pacote [`lme4`](https://cran.r-project.org/web/packages/lme4/index.html)
 
 📢 **Contribuições são bem-vindas!** Sinta-se à vontade para sugerir melhorias ou adicionar novos conteúdos. 
