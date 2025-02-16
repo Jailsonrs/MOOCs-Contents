@@ -8,21 +8,22 @@ Bem-vindo ao meu repositório de cursos! Aqui você encontrará materiais, códi
 O curso de **Linear Mixed Models (LMM)** aborda modelos estatísticos que combinam efeitos fixos e aleatórios, sendo amplamente utilizados em análises de dados longitudinais e em estudos com medidas repetidas.
 
 ### 🔍 Tópicos abordados
-- Introdução aos Modelos Lineares Mistos
+- Introdução aos Modelos Lineares Mistos 
 - Diferença entre efeitos fixos e aleatórios
 - Formulação matemática dos LMMs
 - Estimação dos parâmetros (REML vs ML)
-- Aplicação em R usando `lme4` e `nlme`
+- Aplicação em Python usando `statsmodels`
 - Interpretação dos resultados
 - Validação e diagnóstico dos modelos
+- Comparando os modelos Machine Learning vs. Estatística ou Machine Learning + Estatística?
 
 ### 🛠️ Ferramentas e Bibliotecas
-- **Linguagem**: R
-- **Pacotes**: `lme4`, `nlme`, `ggplot2`, `tidyverse`
+- **Linguagem**: Python, R, VSCode, Tmux, Emacs. Obisidian
+- **Pacotes**:`statsmodels` `pymc` `pandas` `numpy` `numba` | `lme4`, `nlme`, `ggplot2`, `tidyverse`
 
 ### 📂 Estrutura do Repositório
 ```
-├── Curso-Linear-Mixed-Models/
+├── Curso-Linear-Mixed-Models (LMM)/
 │   ├── data/                # Conjuntos de dados utilizados
 │   ├── notebooks/           # Scripts e anotações em R
 │   ├── exemplos/            # Exemplos de aplicação dos modelos
