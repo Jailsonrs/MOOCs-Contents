@@ -1,0 +1,21 @@
+id,idade,altura,peso,genero,escolaridade,estado_civil,renda,filhos,satisfacao,codigo_cliente
+1,35,175.5,78.2,Masculino,Superior,Casado,R$2.001-R$5.000,2,4,1001
+2,42,168.3,65.7,Feminino,Pós-graduação,Casado,R$5.001-R$10.000,1,5,1002
+3,28,182.1,85.3,Masculino,Médio,Solteiro,Até R$2.000,0,3,1003
+4,55,170.2,72.5,Feminino,Superior,Divorciado,R$2.001-R$5.000,2,4,1004
+5,31,178.6,80.1,Masculino,Superior,Solteiro,R$2.001-R$5.000,0,4,1005
+6,47,165.8,63.2,Feminino,Médio,Casado,Até R$2.000,3,3,1006
+7,39,173.4,76.8,Masculino,Superior,Casado,R$5.001-R$10.000,2,5,1007
+8,24,160.5,58.3,Feminino,Médio,Solteiro,Até R$2.000,0,3,1008
+9,52,176.2,82.4,Masculino,Pós-graduação,Casado,Acima de R$10.000,2,4,1009
+10,33,169.7,64.5,Feminino,Superior,Solteiro,R$2.001-R$5.000,0,4,1010
+11,45,181.3,88.6,Masculino,Superior,Divorciado,R$5.001-R$10.000,1,3,1011
+12,29,167.2,61.8,Feminino,Médio,Casado,R$2.001-R$5.000,1,4,1012
+13,38,174.9,79.3,Masculino,Superior,Casado,R$2.001-R$5.000,2,5,1013
+14,51,163.6,60.2,Feminino,Fundamental,Viúvo,Até R$2.000,3,2,1014
+15,27,177.8,76.5,Masculino,Superior,Solteiro,R$2.001-R$5.000,0,4,1015
+16,44,166.4,62.7,Feminino,Médio,Casado,Até R$2.000,2,3,1016
+17,36,180.5,84.2,Masculino,Pós-graduação,Casado,R$5.001-R$10.000,1,5,1017
+18,23,162.8,56.9,Feminino,Médio,Solteiro,Até R$2.000,0,3,1018
+19,49,175.1,80.8,Masculino,Superior,Divorciado,R$2.001-R$5.000,2,4,1019
+20,32,168.9,63.4,Feminino,Superior,Casado,R$2.001-R$5.000,1,4,1020
