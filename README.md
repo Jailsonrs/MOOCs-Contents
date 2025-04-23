@@ -1,4 +1,4 @@
-## 📖 Curso: Linear Mixed Models (LMM)
+## 📖 Curso: Introdução à ciencia de dados
 
 ### 📌 Descrição
 O curso de **Linear Mixed Models (LMM)** aborda modelos estatísticos que combinam efeitos fixos e aleatórios, sendo amplamente utilizados em análises de dados longitudinais, em estudos com medidas repetidas e em dados com estruturas hierárquicas.
